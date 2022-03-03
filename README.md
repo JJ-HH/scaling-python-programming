@@ -1,1 +1,2 @@
-# scaling-python-programming
+# [Book] The Hacker's Guide to Scaling Python Programming
+
